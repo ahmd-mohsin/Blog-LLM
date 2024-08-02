@@ -96,7 +96,7 @@ def main():
 
     with col1:
         st.markdown(
-            "<img src='https://raw.githubusercontent.com/muhd-umer/blog-llm/main/images/logo.png' width='475' style='display: block; margin: 0 auto;'>",
+            "<img src='https://github.com/ahmd-mohsin/Blog-LLM/blob/main/Images/1-removebg-preview.png' width='475' style='display: block; margin: 0 auto;'>",
             unsafe_allow_html=True,
         )
         st.markdown(
