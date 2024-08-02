@@ -1,6 +1,6 @@
 # Blog-LLM
 
-[<img align="right" width="300" height="150" src="https://raw.githubusercontent.com/ahmd-mohsin/Blog-LLM/main/Images/1-removebg-preview.png"/>]
+[<img align="centre" width="600" height="600" src="https://raw.githubusercontent.com/ahmd-mohsin/Blog-LLM/main/Images/1-removebg-preview.png"/>]
 
 Using Large Language Models and Retrieval Augemtented Generation to create blog posts using webscrapping.
 
