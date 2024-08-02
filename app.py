@@ -110,8 +110,11 @@ def main():
             "Health",
             "Fitness",
             "Technology",
+            "lifestyle",
             "Entertainment",
             "Movies",
+            "Politics",
+            
         ]
 
         selected_topic = st.selectbox("Select a topic:", topics)
