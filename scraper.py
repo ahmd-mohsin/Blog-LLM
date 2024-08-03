@@ -19,7 +19,7 @@ class BlogScraper:
         self.session = requests.Session()
 
     def search_blogs(self, topic: str, num_results: int = 10) -> List[str]:
-        query = f"{topic} blog"
+        query = f"{topic}  related blogs Medium"
         urls = list(search(query, num=num_results, stop=num_results, pause=2))
         return urls
 
