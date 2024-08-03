@@ -16,11 +16,7 @@ from scraper import BlogScraper
 
 cfg = {
     "TOPICS": [
-        "health",
-        "fitness",
-        "technology",
-        "entertainment",
-        "movies",
+       "5G", "Machine Learning", "Quantum Computing","Artificial Intelligence", "LLMs",
     ],
 }
 

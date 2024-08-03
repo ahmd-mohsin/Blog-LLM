@@ -107,13 +107,7 @@ def main():
     with col2:
         st.markdown("#### Prompt")
         topics = [
-            "Health",
-            "Fitness",
-            "Technology",
-            "lifestyle",
-            "Entertainment",
-            "Movies",
-            "Politics",
+           "5G", "Machine Learning", "Quantum Computing","Artificial Intelligence", "LLMs"
             
         ]
 
