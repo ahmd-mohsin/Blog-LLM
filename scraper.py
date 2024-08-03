@@ -65,7 +65,7 @@ class BlogScraper:
 if __name__ == "__main__":
     # Test the scraper
     scraper = BlogScraper()
-    topics = ["Health", "Fitness", "Technology", "Entertainment", "Movies","lifestyle","Politics"]
+    topics = ["5G", "Machine Learning", "Quantum Computing","Artificial Intelligence", "LLMs"]
     results = scraper.scrape_blogs(topics, urls_per_topic=8)
 
     for topic, articles in results.items():
